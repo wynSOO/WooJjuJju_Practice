@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- spinner에서 사용할 List를 선언 -->
+    <string-array name = "citys">
+        <item>시도선택</item>
+        <item>서울특별시</item>
+        <item>부산광역시</item>
+        <item>광주광역시</item>
+        <item>대구광역시</item>
+        <item>울산광역시</item>
+        <item>대전광역시</item>
+        <item>인천광역시</item>
+        <item>제주특별자치도</item>
+        <item>세종특별자치시</item>
+    </string-array>
+    
+    <string-array name="seoul_gus">
+        <item>서초구</item>
+        <item>강남구</item>
+        <item>강서구</item>
+        <item>강동구</item>
+        <item>관악구</item>
+        <item>성동구</item>
+        <item>성북구</item>
+    </string-array>
+
+</resources>

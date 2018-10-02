@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- tab Layout의 tab 제목으로 사용할 문자열 배열 -->
+    <string-array name="title_preg">
+        <item>산모건강</item>
+        <item>아이건강</item>
+        <item>재직자</item>
+        <item>생활지원</item>
+    </string-array>
+
+    <string-array name="title_baby">
+        <item>보육지원</item>
+        <item>생활지원</item>
+        <item>건강지원</item>
+        <item>보호</item>
+        <item>입양위탁</item>
+    </string-array>
+
+    <string-array name="title_kid">
+        <item>보육지원</item>
+        <item>생활지원</item>
+        <item>건강지원</item>
+        <item>보호</item>
+        <item>입양위탁</item>
+    </string-array>
+
+</resources>

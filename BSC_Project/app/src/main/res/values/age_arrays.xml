@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+     제일 상단 item을 제목으로 설정하고
+     해당하는 문자열이 값으로 추출되면
+     아직 아이템을 선택하지 않은 것으로 간주하고
+     값(아이템)을 선택하라고 도움말을 지정한다
+    -->
+    <string-array name="age_list">
+        <item>연령선택</item>
+        <item>12세이하</item>
+        <item>14세미만</item>
+        <item>14세이상</item>
+        <item>청소년</item>
+        <item>성인</item>
+    </string-array>
+
+</resources>
